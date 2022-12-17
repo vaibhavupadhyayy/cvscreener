@@ -1,0 +1,25 @@
+.one{
+    color: white;
+}
+.two{
+    color: black;
+}
+.three{
+ font-weight: bold;
+}
+.red{
+    background-color: gainsboro;
+    border: 2px solid green;
+    box-shadow: 8px 7px 8px 8px rgb(69, 28, 28);
+    border-radius: 23px;
+}
+.foot{
+    color:white;
+    font-weight: bold;
+}
+.foot1{
+    background-color: black;
+}
+.trig{
+    border-radius: 15px;
+}
